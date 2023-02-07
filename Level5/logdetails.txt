@@ -1,0 +1,10 @@
+INFO:root:A new Log came
+INFO:root:log is recorded
+INFO:root:A new Log came
+INFO:root:A new Log came
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "C:\Team6\Level5\logdeatails.py", line 7, in <module>
+    print(n1/n2)
+ZeroDivisionError: division by zero
+INFO:root:log is recorded
